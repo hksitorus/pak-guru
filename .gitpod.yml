@@ -60,7 +60,6 @@ vscode:
     - rebornix.ruby
     - redhat.java
     - redhat.vscode-xml
-    - redhat.vscode-yaml
     - richie5um2.vscode-sort-json
     - scala-lang.scala
     - Tyriar.sort-lines
