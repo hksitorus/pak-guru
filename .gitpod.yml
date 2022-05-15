@@ -32,8 +32,8 @@ github:
 
 vscode:
   extensions:
-    - andrejunges.Handlebars
-    - annsk.alignment
+    - amiralizadeh9480.laravel-extra-intellisense
+    - anseki.vscode-color
     - bmewburn.vscode-intelephense-client
     - castwide.solargraph
     - Dart-Code.dart-code
@@ -49,26 +49,21 @@ vscode:
     - formulahendry.code-runner
     - golang.go
     - GrapeCity.gc-excelviewer
-    - itryapitsin.Scala
     - joelday.docthis
-    - lihui.vs-color-picker
     - mgmcdermott.vscode-language-babel
     - mitaki28.vscode-clang
     - ms-azuretools.vscode-docker
     - ms-python.python
-    - ms-python.vscode-pylance
     - ms-toolsai.jupyter
     - ms-toolsai.jupyter-keymap
     - ms-toolsai.jupyter-renderers
-    - ms-vscode.cpptools
     - rebornix.ruby
     - redhat.java
-    - rexshi.phpdoc-comment-vscode-plugin
+    - redhat.vscode-xml
+    - redhat.vscode-yaml
     - richie5um2.vscode-sort-json
-    - ryannaddy.laravel-artisan
-    - Shan.code-settings-sync
+    - scala-lang.scala
     - Tyriar.sort-lines
-    - VisualStudioExptTeam.vscodeintellicode
     - vscjava.vscode-java-debug
     - wingrunr21.vscode-ruby
-    - xdebug.php-debug
+    - wwm.better-align
