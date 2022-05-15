@@ -29,3 +29,46 @@ github:
     addLabel: false
     # add a check to pull requests (defaults to true)
     addCheck: true
+
+vscode:
+  extensions:
+    - andrejunges.Handlebars
+    - annsk.alignment
+    - bmewburn.vscode-intelephense-client
+    - castwide.solargraph
+    - Dart-Code.dart-code
+    - Dart-Code.flutter
+    - donjayamanne.githistory
+    - DotJoshJohnson.xml
+    - dracula-theme.theme-dracula
+    - eamodio.gitlens
+    - eg2.vscode-npm-script
+    - embertooling.prettier-for-handlebars-vscode
+    - esbenp.prettier-vscode
+    - formulahendry.auto-close-tag
+    - formulahendry.code-runner
+    - golang.go
+    - GrapeCity.gc-excelviewer
+    - itryapitsin.Scala
+    - joelday.docthis
+    - lihui.vs-color-picker
+    - mgmcdermott.vscode-language-babel
+    - mitaki28.vscode-clang
+    - ms-azuretools.vscode-docker
+    - ms-python.python
+    - ms-python.vscode-pylance
+    - ms-toolsai.jupyter
+    - ms-toolsai.jupyter-keymap
+    - ms-toolsai.jupyter-renderers
+    - ms-vscode.cpptools
+    - rebornix.ruby
+    - redhat.java
+    - rexshi.phpdoc-comment-vscode-plugin
+    - richie5um2.vscode-sort-json
+    - ryannaddy.laravel-artisan
+    - Shan.code-settings-sync
+    - Tyriar.sort-lines
+    - VisualStudioExptTeam.vscodeintellicode
+    - vscjava.vscode-java-debug
+    - wingrunr21.vscode-ruby
+    - xdebug.php-debug
